@@ -55,3 +55,12 @@ __history/
 
 # Castalia statistics file
 *.stat
+
+# Free Pascal / Lazarus files
+*.lps
+*.compiled
+*.o
+*.ppu
+*.dbg
+*.bak
+
